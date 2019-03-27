@@ -1,52 +1,42 @@
 ## Role:
-
+Buyer (Non-technical employee at an electronics company)
 ## Name:
+Gilbert
 
 ## Image: 
 <insert image here>
 
-**Image Credit:**
-
 ## Quote:
 
-> Candy donut chupa chups chocolate danish sweet. Candy canes biscuit jelly beans. Jelly beans cotton candy chocolate cake marzipan apple pie. Toffee caramels tart wafer jujubes bonbon candy.
+> I spend a lot of time building BOMs. As a non-technical person sometimes I find it difficeult.
 
 ##Background:
-**Age:** 30<br> 
-**Location:** New York<br> 
+**Age:** 42<br> 
+**Location:** Bristol<br> 
 **Marital Status:** Engaged<br> 
-**Kids:** No<br> 
-**Occupation:** Account Manager<br> 
+**Kids:** 2<br> 
+**Occupation:** Buyer<br> 
 **Education:** B.S.
 
 ## Characteristics
-* Reliable
-* Caring
-* Committed
-* Action Oriented
-* Focused 
-* Eager
+* Methodical
+* Interest in electronics
 
 ## Goals/Needs
 
-* Wafer sesame snaps caramels chupa chups candy. Sweet roll dessert powder powder halvah. Apple pie chocolate cake cotton candy apple pie biscuit tiramisu. Liquorice chocolate bar cupcake sweet roll
-* Gingerbread dragée pudding chupa chups carrot cake. Donut marshmallow pastry biscuit. Sugar plum ice cream bonbon.
+* I need to build and order BOMs quickly for lots of projects
 
 
 ### TECH KNOWLEDGE
 ██████████████████████████████░░░░░░░░░░░░░░░░░░░░░<br> 
-n00b                                                                                                                                               expert
+Some technical knowledge built up from experience on the job
 
-### KNOWS STAFF SKILLS
-                                      
-███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
-who are you?                                                                                                                                 besties!
 
 ### TIME AVAILABILITY 
 ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
-needed it yesterday                                                                                                                    I can wait
+I would rather be spending my time on other things than building BOMs, I have lots to do in my role!
 
 
 ##About
 
-Wafer sesame snaps caramels chupa chups candy. Sweet roll dessert powder powder halvah. Apple pie chocolate cake cotton candy apple pie biscuit tiramisu. Liquorice chocolate bar cupcake sweet roll chocolate halvah chocolate cake. Danish lollipop chocolate croissant. Candy oat cake gummies chocolate cake. Donut tart pudding toffee muffin halvah. Lollipop muffin fruitcake ice cream brownie pastry. Bear claw sugar plum bear claw topping pudding toffee caramels gummi bears marzipan. Pie fruitcake fruitcake. Danish lollipop jelly chupa chups fruitcake biscuit sweet macaroon sweet roll. Cheesecake gummies sugar plum tootsie roll chupa chups sesame snaps. Lemon drops jelly-o tiramisu cupcake cookie soufflé sweet jelly-o chupa chups. Jujubes caramels chocolate
+I am a buyer at an electronics company.

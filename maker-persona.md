@@ -1,52 +1,41 @@
 ## Role:
-
+> Maker
+> 
 ## Name:
-
+> Barney
+> 
 ## Image: 
-<insert image here>
 
-**Image Credit:**
 
 ## Quote:
 
-> Candy donut chupa chups chocolate danish sweet. Candy canes biscuit jelly beans. Jelly beans cotton candy chocolate cake marzipan apple pie. Toffee caramels tart wafer jujubes bonbon candy.
+> "I do this for fun, but now sometimes people pay me to build projects for them. I do this in my spare time so it has to be enjoyable."
 
 ##Background:
-**Age:** 30<br> 
-**Location:** New York<br> 
-**Marital Status:** Engaged<br> 
+**Age:** 33<br> 
+**Location:** Bristol<br> 
+**Marital Status:** Single<br> 
 **Kids:** No<br> 
-**Occupation:** Account Manager<br> 
+**Occupation:** Education Manager<br> 
 **Education:** B.S.
 
 ## Characteristics
-* Reliable
-* Caring
-* Committed
-* Action Oriented
-* Focused 
-* Eager
+* Technically minded
 
 ## Goals/Needs
 
-* Wafer sesame snaps caramels chupa chups candy. Sweet roll dessert powder powder halvah. Apple pie chocolate cake cotton candy apple pie biscuit tiramisu. Liquorice chocolate bar cupcake sweet roll
-* Gingerbread dragée pudding chupa chups carrot cake. Donut marshmallow pastry biscuit. Sugar plum ice cream bonbon.
+* A simple tool to use
 
 
 ### TECH KNOWLEDGE
 ██████████████████████████████░░░░░░░░░░░░░░░░░░░░░<br> 
-n00b                                                                                                                                               expert
-
-### KNOWS STAFF SKILLS
-                                      
-███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
-who are you?                                                                                                                                 besties!
+Self-taught
 
 ### TIME AVAILABILITY 
 ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
-needed it yesterday                                                                                                                    I can wait
+I do this in my spare time so I dont have a lot of it!
 
 
 ##About
 
-Wafer sesame snaps caramels chupa chups candy. Sweet roll dessert powder powder halvah. Apple pie chocolate cake cotton candy apple pie biscuit tiramisu. Liquorice chocolate bar cupcake sweet roll chocolate halvah chocolate cake. Danish lollipop chocolate croissant. Candy oat cake gummies chocolate cake. Donut tart pudding toffee muffin halvah. Lollipop muffin fruitcake ice cream brownie pastry. Bear claw sugar plum bear claw topping pudding toffee caramels gummi bears marzipan. Pie fruitcake fruitcake. Danish lollipop jelly chupa chups fruitcake biscuit sweet macaroon sweet roll. Cheesecake gummies sugar plum tootsie roll chupa chups sesame snaps. Lemon drops jelly-o tiramisu cupcake cookie soufflé sweet jelly-o chupa chups. Jujubes caramels chocolate
+Barney builds electronic music projects to fuel his hobby with techno. 
